@@ -2,8 +2,6 @@
 
 <b>Retail Store Stock Inventory Analytics</b>
 
-<b>INTRODUCTION</b>
-
 	In recent times, the employment of analytics in the all kinds of business sectors, especially the retail sector has proven to increase success in their daily operations. This project aims to prove that, in addition will identify what factors are actually contributing to this roaring success in the retail sector. Of course, the use of analytics in the business processes has its own pros and cons, but majority of the organizations feel that the introduction of analytics in their business processes has made things easier for them.Some of the drawbacks of using big data analytics in the retail sector has risen concerns among the customers as well the retailers. Privacy concern is one of them. Customers feel that their privacy are being snatched away when retailers track their location or store their purchase information for targeting them with personalized advertisements. Although big data analytics help employees to fasten up their work, it also poses a high cost for managing such a huge amount of data. Software needed to sort and analyze these data are very expensive. On the other hand, requires skilled people to work with them. Data quality decreases because of automation of data gathering, sorting and analyzing them.
 
 Some major advantages of using big data analytics in the retail sector  are it saves costs, helps in product development, speeds up data management, helps in predicting future, helps in inventory management, helps in price management, helps in micro targeting customers, etc.
