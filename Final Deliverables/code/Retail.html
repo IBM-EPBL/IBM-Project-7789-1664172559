@@ -1,0 +1,29 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="Retail.css">
+    <script>
+        $('.message a').click(function(){
+            $('form').animate({height: "toggle", opacity: "toggle"}, "slow");});
+        function myfun(){
+            window.open('dashboard.html');}
+    </script>
+</head>
+<body>
+    <div class="login-page">
+        <div class="form">
+          <form class="register-form" onsubmit="return myfun()">
+            <input type="text" placeholder="name"/>
+            <input type="password" placeholder="password"/>
+            <input type="text" placeholder="email address"/>
+            <button>create</button>
+          </form>
+          <form class="login-form">
+            <input type="text" placeholder="username"/>
+            <input type="password" placeholder="password"/>
+            <button onclick="myfun()">login</button>
+          </form>
+        </div>
+      </div>
+</body>
+</html>
